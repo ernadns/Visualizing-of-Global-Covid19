@@ -1,2 +1,2 @@
 # Visualizingcovid19
-This project provided by Data Camp and I tried to solve this project with my own knowledge and skill.
+This project provided by Data Camp. I tried to solved this project by guided from Data Camp and combine with my own knowledge and skill.
